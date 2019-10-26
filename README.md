@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install --dev @himmas/prettier-config
+$ npm install @himmas/prettier-config --only=dev
 ```
 
 **Edit `package.json`**:
