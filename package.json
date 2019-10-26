@@ -1,0 +1,8 @@
+{
+  "name": "@himmas/prettier-config",
+  "version": "1.0.0",
+  "description": "Himmas Prettier config",
+  "main": "index.json",
+  "author": "kylin-z",
+  "license": "MIT"
+}
